@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e76b509-6eb9-4b25-93e3-c44419f70fe6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provide-payment02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provide-payment02/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -94,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/cloud-provide-payment02/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -179,7 +180,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -320,16 +321,15 @@
       <workItem from="1644463400321" duration="20000" />
       <workItem from="1644463467303" duration="4525000" />
       <workItem from="1644472017032" duration="5178000" />
-      <workItem from="1644495789617" duration="43000" />
+      <workItem from="1644495789617" duration="1695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9897000" />
+    <option name="totallyTimeSpent" value="11549000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26407507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -544,7 +544,7 @@
     <entry file="file://$PROJECT_DIR$/cloud-provide-payment02/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
